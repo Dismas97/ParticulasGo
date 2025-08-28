@@ -6,3 +6,5 @@
 #+OPTIONS: results:nil
 
 Sistema de particulas simples hecho en golang
+
+[[file:test.gif]]

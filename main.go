@@ -281,7 +281,7 @@ func main() {
 						particulas[i].PX += particulas[i].VX
 						particulas[i].PY += particulas[i].VY
 
-						// Opcional: mantener las partículas dentro de los límites de la ventana
+						//mantener partículas dentro de ventana
 						ancho, alto := window.GetSize()
 						if particulas[i].PX < 0 { particulas[i].PX = 0; particulas[i].VX *= -1 }
 						if particulas[i].PX > float32(ancho) { particulas[i].PX = float32(ancho); particulas[i].VX *= -1 }
