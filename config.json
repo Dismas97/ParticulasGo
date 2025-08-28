@@ -1,0 +1,9 @@
+{
+    "opengl_v_mayor": 4,
+    "opengl_v_menor": 1,
+    "redimensionable": true,
+    "ancho": 1920,
+    "alto": 1080,
+    "particulas": 1000,
+    "fuerza_max": 5
+}
