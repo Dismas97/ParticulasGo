@@ -1,0 +1,8 @@
+#+TITLE: README
+#+AUTHOR: fran
+#+LANGUAGE: es
+#+STARTUP: content indent showeverything
+#+DESCRIPTION: Declaracion de intenciones en el proyecto
+#+OPTIONS: results:nil
+
+Sistema de particulas simples hecho en golang
